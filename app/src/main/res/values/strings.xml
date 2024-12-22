@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="notEnterCity">Вы не ввели город!</string>
+    <string name="speedWindmh">м/ч</string>
+    <string name="wind">Ветер</string>
+    <string name="rain">Дождь</string>
+    <string name="percent">%</string>
+    <string name="sunrise">Восход</string>
+    <string name="volumeRainSnow">мм</string>
+    <string name="rain_snow">Дождь/Снег</string>
+    <string name="sunset">Закат</string>
+    <string name="quenstionCity">Ваш город?</string>
+    <string name="humidity">Влажность</string>
+    <string name="finBtn">Найти</string>
+    <string name="clouds">Облака</string>
+
+</resources>
